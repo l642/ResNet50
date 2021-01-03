@@ -1,1 +1,1 @@
-# ResNet50
+# ResNet50 for car brand classification
